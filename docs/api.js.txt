@@ -1,0 +1,8 @@
+METHODS:
+addCard()
+removeCard(id)
+getCards()
+modifyCard(id)
+
+DATA:
+cards = new Cards();
